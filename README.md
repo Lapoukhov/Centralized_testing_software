@@ -23,3 +23,18 @@ To develop a software for DH, it is necessary to implement the following functio
 
 • Save the history of passing the test to a file.
 
+Subjects:
+
+•	Mathematics
+
+•	Russian language
+
+•	Belarusian language
+
+• Biology
+
+• Physics
+
+• Chemistry
+
+• History of Belarus
