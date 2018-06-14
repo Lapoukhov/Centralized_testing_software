@@ -45,5 +45,5 @@ To start using the program, you must run the MyProgramm.exe file. The program co
 The second point: choose the way to form the user form. The form can be generated programmatically or downloaded ready. In the Download folder are the forms for downloading, for each subject your form, the name of the blank number indicates the number of tasks, after the name of the subject in the abbreviation is written. These forms can be edited by the user before starting the download.
 Third point: click on the "Final score" button to find out the result. After the program automatically calculates the result and displays it. After performing the test for each subject, you can see all the data on forms and coefficients. They are in the appropriate folders. After the application is closed, the program allows the user to view the history of the test results. All results are stored in the "Test history" folder in the corresponding text documents, the name of which indicates the date of testing.
 
-Scheme of the algorithm:
+### Scheme of the algorithm:
 ![360__1](https://user-images.githubusercontent.com/37573044/41412309-40357866-6fe8-11e8-9e2d-643a98a5811b.jpg)
