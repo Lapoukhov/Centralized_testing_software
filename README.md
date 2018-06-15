@@ -41,7 +41,7 @@ Subjects:
 
 ### Installattion and use manual:
 
-To start using the program, you must run the MyProgramm.exe file.
+To start using the program, you must run the MyProgramm.exe file. After the program is opened, a window will appear.
 
 ![default](https://user-images.githubusercontent.com/37573044/41461309-07c66d04-7098-11e8-84aa-2fdb91d624ed.png)
 
